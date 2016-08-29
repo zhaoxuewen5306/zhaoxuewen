@@ -27,7 +27,7 @@ a:hover{color:red;}
 		background-color:white;
 		height:35px;
 		text-align:center;
-		margin-top:-440px;
+		margin-top:0px;
 		}
  
 	.list a{text-decoration:none;
@@ -60,6 +60,25 @@ a:hover{color:red;}
 		background:rgba(0,0,0,0.1);
 		}
 
+	.column{
+		border:1px solid black;
+		width:1000px;
+		height:1000px;
+		border:none;
+		margin:0 auto;
+		margin-left:5px;
+	}
+
+	.content{
+		border:1px solid black;
+		width:1000px;
+		height:1500px;
+     	margin:0 auto;
+		margin-top:50px;
+		border:none;
+	}
+	
+	
 	.submenu{
 		width:1100px;
 		height:80px;
@@ -68,6 +87,7 @@ a:hover{color:red;}
 		font-weight:bold;
 		margin-top:430px;
 		text-align:center;
+		
 	}
 	
 	.img{
@@ -75,6 +95,7 @@ a:hover{color:red;}
 		height:200px;
 		margin-left:110px;
 		margin-top:50px;
+		
 	}
 	.img:hover img{
 		display:none;
@@ -364,12 +385,12 @@ a:hover{color:red;}
 		width:100px;
 		font-weight:bold;
 		text-align:center;
+		margin-top:-120px;
 	}
 	
 	.shop-img img{
-		width:1100px;
-		margin-top:40px;
-		margin:0 auto;
+		width:1000px;
+		
 	}
 	
 	
@@ -378,7 +399,7 @@ a:hover{color:red;}
 		height:200px;
 		border:1px solid gray;
 		margin-top:-10px;
-		margin-left:100px;
+		margin-left:60px;
 	}
 	.header-top{
 		padding-left:20px;
@@ -421,7 +442,7 @@ a:hover{color:red;}
 		height:430px;
 		border:1px solid gray;
 		margin-top:-670px;
-		margin-left:280px;
+		margin-left:250px;
 	}
 	
 	.wrapper-font{
@@ -454,7 +475,7 @@ a:hover{color:red;}
 		height:200px;
 		border:1px solid gray;
 		margin-top:-200px;
-		margin-left:380px;
+		margin-left:310px;
 	}
 	
 	.wrapper-bottom{
@@ -495,7 +516,7 @@ a:hover{color:red;}
 		height:300px;
 		border:1px solid gray;
 		margin-top:20px;
-		margin-left:100px;
+		margin-left:60px;
 	}
 	.search-font{
 		border:1px solid #e2f7f0;

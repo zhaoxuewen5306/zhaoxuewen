@@ -3,6 +3,7 @@
 		width:1100px;
 		height:110px;
 		margin:0 auto;
+		margin-top:80px;
 	}
 		
 	.nav-right{
@@ -14,12 +15,13 @@
 		background-color:white;
 		height:35px;
 		text-align:center;
-		margin-top:30px;
+		margin-top:-25px;
 		}
  
 	.list a{text-decoration:none;
 		color:#9b83b4;
 		font-size:19px;
+		
 		}
   
     .list ul{list-style:none;
@@ -50,13 +52,13 @@
 		width:1000px;
 		height:1300px;
 		margin:0 auto;
-		margin-top:50px;
+		margin-top:40px;
 	}
 	.header{
 		background:url(../images/zhou1.jpg);
 		width:500px;
 		height:900px;
-		margin-left:45px;
+		margin-top:-20px;
 	}
 	
 	.header-img{
@@ -64,7 +66,25 @@
 		width:500px;
 		height:900px;
 		margin-top:-900px;
-		margin-left:545px;
+		margin-left:500px;
+	}
+	.header-font-top{
+		border:1px solid black;
+		width:320px;
+		height:300px;
+		border:none;
+		margin:0 auto;
+		margin-top:-300px;
+		border:none;
+	}
+	.header-nav-top{
+		border:1px solid black;
+		width:1000px;
+		height:900px;
+		border:none;
+		margin:0 auto;
+		margin-top:0px;
+		
 	}
 	.header-font{
 		color:white;
@@ -77,10 +97,17 @@
 		text-indent:2em;
 		line-height:40px;
 		padding-top:20px;
-		margin-top:-1220px;
-		margin-left:380px;
 		background:rgba(0,0,0,0.2);
+		
 	}
+	.header-tips-font{
+		border:1px solid black;
+		width:1000px;
+		height:510px;
+		margin:0 auto;
+		
+	}
+
 	.header-top{
 		font-size:20px;
 		font-weight:bold;
@@ -97,7 +124,7 @@
 		text-indent:2em;
 		line-height:40px;
 		padding-top:20px;
-		margin-top:620px;
+		margin-top:-300px;
 		margin-left:120px;
 		background:rgba(0,0,0,0.1);
 	}
@@ -117,7 +144,7 @@
 		line-height:40px;
 		padding-top:20px;
 		margin-top:-305px;
-		margin-left:635px;
+		margin-left:560px;
 		background:rgba(0,0,0,0.1);
 	}
 	.header-right{
@@ -126,10 +153,14 @@
 		color:red;
 		
 	}
-	.header-bottom img{
-		margin-left:45px;
+	.header-bottom-img{
+		border:1px solid black;
+		width:1000px;
+		height:500px;
+		border:none;
+		margin:0 auto;
 	}
-	
+
 	.header-tips{
 		border:1px solid black;
 		border:none;
@@ -142,7 +173,7 @@
 		line-height:40px;
 		padding-top:20px;
 		margin-top:0px;
-		margin-left:150px;
+		margin-left:115px;
 		
 	}
 	.header-news{
@@ -154,7 +185,7 @@
 		font-size:20px;
 		font-weight:bold;
 		color:red;
-		margin-left:70px;
+		margin-left:30px;
 	}
 	
 	.copyright{
@@ -162,8 +193,8 @@
 		width:800px;
 		height:270px;
 		background:white;
-		margin-left:130px;
-		margin-top:45px;
+		margin:0 auto;
+		margin-top:30px;
 	}
 	
 	.friendlink{
