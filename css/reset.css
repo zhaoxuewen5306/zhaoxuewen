@@ -627,7 +627,32 @@ a:hover{color:red;}
 		margin-left:50px;
 		margin-top:50px;
 	}
-	
+	.box-friend{
+	float:left;
+	margin-top:70px;
+	margin-left:100px;
+	width:400px;
+	height:40px;
+}
+.box-friend p{
+	float:left;
+	font-size:20px;
+	color:white;
+}
+.box-friend span{
+	float:left;
+	margin-left:15px;
+	font-size:15px;
+	color:white;
+}
+.box-friend a{
+	color:white;
+	margin-left:10px;
+}
+.box-friend a:hover{
+	color:red;
+}
+
 	
 	
 	
