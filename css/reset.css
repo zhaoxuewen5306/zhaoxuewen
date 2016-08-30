@@ -27,13 +27,13 @@ a:hover{color:red;}
 		background-color:white;
 		height:35px;
 		text-align:center;
-		margin-top:0px;
+		margin-top:-20px;
 		}
  
 	.list a{text-decoration:none;
 		color:#9b83b4;
 		font-size:19px;
-		margin-top:-20px;
+		
 		}
   
     .list ul{list-style:none;
